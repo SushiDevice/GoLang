@@ -1,0 +1,8 @@
+Poner en terminal:
+
+1.-mkdir hello
+2.-cd hello
+3.-go mod init
+4.-go get github.com/beego/beego/v2@latest
+go build hello.go
+./hello
